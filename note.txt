@@ -1,0 +1,2 @@
+run the app:
+$ DEBUG=pos-portal-service:* npm start
